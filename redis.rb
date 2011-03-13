@@ -4,7 +4,7 @@ class Redis < Formula
   url 'https://github.com/antirez/redis/tarball/v1.3.7'
   head 'git://github.com/antirez/redis.git'
   homepage 'http://redis.io/'
-  sha1 'd664771528f45ab81de7122442e73f33'
+  sha1 '89cfc60ec618af9834392310875c328ce5ba5081'
 
   def install
     fails_with_llvm "Fails with \"reference out of range from _linenoise\""
