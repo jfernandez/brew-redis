@@ -1,3 +1,3 @@
-Homebrew formula for Redis 1.3.7
+Homebrew formula for Redis 1.3.7 (default version for Engineyard Cloud)
 
 brew install https://github.com/jfernandez/brew-redis/raw/master/redis.rb
